@@ -13,3 +13,5 @@ My dissertation focuses on the Atlantic Forest of Brazil where I 1) tested the s
 #### [Click here for my CV](content/img/Benzeev_CV_2021.pdf){:target="_blank"}
 
 #### [Click here for my publications](/publications)
+
+####[Email me](mailto:rayna.benzeev@colorado.edu)
