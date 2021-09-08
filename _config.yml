@@ -22,7 +22,7 @@ title: Rayna Benzeev
 email: rayna.benzeev@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Interdisciplinary research on tropical forests, socio-environmental systems, forest landscape restoration, spatial prioritization, and actionable outcomes for decision-making
-baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://rbenzeev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: benzeev_rayna
 github_username:  rbenzeev
